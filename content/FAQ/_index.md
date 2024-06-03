@@ -38,7 +38,7 @@ conflicts with one of the current practices. Creating a GitHub issue is the best
 
 ## Is this everything We need for CD?
 
-Oh, gosh no! This is the barest of minimums.
+Oh, gosh, no! The [Resources page](/minimumcd/references/) will aid you in going beyond Minimum CD.
 
 ## How can we use this to improve?
 
